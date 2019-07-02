@@ -10,7 +10,6 @@
 <summary>emoji-people</summary>
 :bowtie: bowtie  
 
-
 :smile: smile    
 
 :laughing: laughing  
@@ -396,7 +395,6 @@
 :trollface: trollface   
 </details>
 
-```html
 <details>
 <summary>emoji-nature</summary>
 :sunny: sunny  
@@ -629,9 +627,7 @@
 
 :squirrel: squirrel  
 </details>
-```
 
-```html
 <details>
 <summary>emoji-objects</summary>
 :bamboo: bamboo  
@@ -798,8 +794,8 @@
 
 :money_with_wings: money_with_wings  
 
-:e-mail:  
- e-mail
+:e-mail:  e-mail  
+
 :inbox_tray: inbox_tray  
 
 :outbox_tray: outbox_tray  
@@ -1154,9 +1150,7 @@
 
 :corn: corn  
 </details>
-```
 
-```html
 <details>
 <summary>emoji-places</summary>
 :house: house  
@@ -1371,9 +1365,7 @@
 
 :de: de
 </details>
-```
 
-```html
 <details>
 <summary>emoji-symbols</summary>
 :one: one  
@@ -1564,8 +1556,8 @@
 
 :do_not_litter: do_not_litter  
 
-:non-potable_water:  
- non-potable_water
+:non-potable_water:  non-potable_water  
+
 :no_bicycles: no_bicycles  
 
 :no_pedestrians: no_pedestrians  
@@ -1780,5 +1772,3 @@
 
 :shipit: shipit  
 </details>
-```
-
