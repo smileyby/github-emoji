@@ -1,6 +1,6 @@
 ## Github Emoji
 
-> 存放一些 emoji 表情，方便copy
+> 存放一些github 支持的 emoji 表情，方便copy
 >
 > 所有表情，都需要在英文单词的前后添加英文冒号 
 >
