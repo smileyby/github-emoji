@@ -4,7 +4,7 @@
 >
 > 所有表情，都需要在英文单词的前后添加英文冒号 
 >
-> 例如： `:` + `smile` + `:`
+> 例如： `:` + `smile` + `:` :smile:
 
 <details>
 <summary>emoji-people</summary>
