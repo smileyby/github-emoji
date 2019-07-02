@@ -6,7 +6,6 @@
 >
 > 例如： `:` + `smile` + `:`
 
-```
 <details>
 <summary>Nature</summary>
 :bowtie: bowtie
@@ -204,4 +203,3 @@
 :suspect: suspect
 :trollface: trollface
 </details>
-```
