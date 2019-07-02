@@ -8,391 +8,391 @@
 
 <details>
 <summary>Nature</summary>
-bowtie: bowtie  
+:bowtie: bowtie  
 
-smile: smile  
+:smile: smile  
 
-simple_smile: simple_smile  
+:simple_smile: simple_smile  
 
-laughing: laughing  
+:laughing: laughing  
 
-blush: blush  
+:blush: blush  
 
-smiley: smiley  
+:smiley: smiley  
 
-relaxed: relaxed  
+:relaxed: relaxed  
 
-smirk: smirk  
+:smirk: smirk  
 
-heart_eyes: heart_eyes  
+:heart_eyes: heart_eyes  
 
-kissing_heart: kissing_heart  
+:kissing_heart: kissing_heart  
 
-kissing_closed_eyes: kissing_closed_eyes  
+:kissing_closed_eyes: kissing_closed_eyes  
 
-flushed: flushed  
+:flushed: flushed  
 
-relieved: relieved  
+:relieved: relieved  
 
-satisfied: satisfied  
+:satisfied: satisfied  
 
-grin: grin  
+:grin: grin  
 
-wink: wink  
+:wink: wink  
 
-stuck_out_tongue_winking_eye: stuck_out_tongue_winking_eye  
+:stuck_out_tongue_winking_eye: stuck_out_tongue_winking_eye  
 
-stuck_out_tongue_closed_eyes: stuck_out_tongue_closed_eyes  
+:stuck_out_tongue_closed_eyes: stuck_out_tongue_closed_eyes  
 
-grinning: grinning  
+:grinning: grinning  
 
-kissing: kissing  
+:kissing: kissing  
 
-kissing_smiling_eyes: kissing_smiling_eyes  
+:kissing_smiling_eyes: kissing_smiling_eyes  
 
-stuck_out_tongue: stuck_out_tongue  
+:stuck_out_tongue: stuck_out_tongue  
 
-sleeping: sleeping  
+:sleeping: sleeping  
 
-worried: worried  
+:worried: worried  
 
-frowning: frowning  
+:frowning: frowning  
 
-anguished: anguished  
+:anguished: anguished  
 
-open_mouth: open_mouth  
+:open_mouth: open_mouth  
 
-grimacing: grimacing  
+:grimacing: grimacing  
 
-confused: confused  
+:confused: confused  
 
-hushed: hushed  
+:hushed: hushed  
 
-expressionless: expressionless  
+:expressionless: expressionless  
 
-unamused: unamused  
+:unamused: unamused  
 
-sweat_smile: sweat_smile  
+:sweat_smile: sweat_smile  
 
-sweat: sweat  
+:sweat: sweat  
 
-disappointed_relieved: disappointed_relieved  
+:disappointed_relieved: disappointed_relieved  
 
-weary: weary  
+:weary: weary  
 
-pensive: pensive  
+:pensive: pensive  
 
-disappointed: disappointed  
+:disappointed: disappointed  
 
-confounded: confounded  
+:confounded: confounded  
 
-fearful: fearful  
+:fearful: fearful  
 
-cold_sweat: cold_sweat  
+:cold_sweat: cold_sweat  
 
-persevere: persevere  
+:persevere: persevere  
 
-cry: cry  
+:cry: cry  
 
-sob: sob  
+:sob: sob  
 
-joy: joy  
+:joy: joy  
 
-astonished: astonished  
+:astonished: astonished  
 
-scream: scream  
+:scream: scream  
 
-neckbeard: neckbeard  
+:neckbeard: neckbeard  
 
-tired_face: tired_face  
+:tired_face: tired_face  
 
-angry: angry  
+:angry: angry  
 
-rage: rage  
+:rage: rage  
 
-triumph: triumph  
+:triumph: triumph  
 
-sleepy: sleepy  
+:sleepy: sleepy  
 
-yum: yum  
+:yum: yum  
 
-mask: mask  
+:mask: mask  
 
-sunglasses: sunglasses  
+:sunglasses: sunglasses  
 
-dizzy_face: dizzy_face  
+:dizzy_face: dizzy_face  
 
-imp: imp  
+:imp: imp  
 
-smiling_imp: smiling_imp  
+:smiling_imp: smiling_imp  
 
-neutral_face: neutral_face  
+:neutral_face: neutral_face  
 
-no_mouth: no_mouth  
+:no_mouth: no_mouth  
 
-innocent: innocent  
+:innocent: innocent  
 
-alien: alien  
+:alien: alien  
 
-yellow_heart: yellow_heart  
+:yellow_heart: yellow_heart  
 
-blue_heart: blue_heart  
+:blue_heart: blue_heart  
 
-purple_heart: purple_heart  
+:purple_heart: purple_heart  
 
-heart: heart  
+:heart: heart  
 
-green_heart: green_heart  
+:green_heart: green_heart  
 
-broken_heart: broken_heart  
+:broken_heart: broken_heart  
 
-heartbeat: heartbeat  
+:heartbeat: heartbeat  
 
-heartpulse: heartpulse  
+:heartpulse: heartpulse  
 
-two_hearts: two_hearts  
+:two_hearts: two_hearts  
 
-revolving_hearts: revolving_hearts  
+:revolving_hearts: revolving_hearts  
 
-cupid: cupid  
+:cupid: cupid  
 
-sparkling_heart: sparkling_heart  
+:sparkling_heart: sparkling_heart  
 
-sparkles: sparkles  
+:sparkles: sparkles  
 
-star: star  
+:star: star  
 
-star2: star2  
+:star2: star2  
 
-dizzy: dizzy  
+:dizzy: dizzy  
 
-boom: boom  
+:boom: boom  
 
-collision: collision  
+:collision: collision  
 
-anger: anger  
+:anger: anger  
 
-exclamation: exclamation  
+:exclamation: exclamation  
 
-question: question  
+:question: question  
 
-grey_exclamation: grey_exclamation  
+:grey_exclamation: grey_exclamation  
 
-grey_question: grey_question  
+:grey_question: grey_question  
 
-zzz: zzz  
+:zzz: zzz  
 
-dash: dash  
+:dash: dash  
 
-sweat_drops: sweat_drops  
+:sweat_drops: sweat_drops  
 
-notes: notes  
+:notes: notes  
 
-musical_note: musical_note  
+:musical_note: musical_note  
 
-fire: fire  
+:fire: fire  
 
-hankey: hankey  
+:hankey: hankey  
 
-poop: poop  
+:poop: poop  
 
-shit: shit  
+:shit: shit  
 
-+1: +1  
+:+1: +1  
 
-thumbsup: thumbsup  
+:thumbsup: thumbsup  
 
--1: -1  
+:-1: -1  
 
-thumbsdown: thumbsdown  
+:thumbsdown: thumbsdown  
 
-ok_hand: ok_hand  
+:ok_hand: ok_hand  
 
-punch: punch  
+:punch: punch  
 
-facepunch: facepunch  
+:facepunch: facepunch  
 
-fist: fist  
+:fist: fist  
 
-v: v  
+:v: v  
 
-wave: wave  
+:wave: wave  
 
-hand: hand  
+:hand: hand  
 
-raised_hand: raised_hand  
+:raised_hand: raised_hand  
 
-open_hands: open_hands  
+:open_hands: open_hands  
 
-point_up: point_up  
+:point_up: point_up  
 
-point_down: point_down  
+:point_down: point_down  
 
-point_left: point_left  
+:point_left: point_left  
 
-point_right: point_right  
+:point_right: point_right  
 
-raised_hands: raised_hands  
+:raised_hands: raised_hands  
 
-pray: pray  
+:pray: pray  
 
-point_up_2: point_up_2  
+:point_up_2: point_up_2  
 
-clap: clap  
+:clap: clap  
 
-muscle: muscle  
+:muscle: muscle  
 
-metal: metal  
+:metal: metal  
 
-fu: fu  
+:fu: fu  
 
-runner: runner  
+:runner: runner  
 
-running: running  
+:running: running  
 
-couple: couple  
+:couple: couple  
 
-family: family  
+:family: family  
 
-two_men_holding_hands: two_men_holding_hands  
+:two_men_holding_hands: two_men_holding_hands  
 
-two_women_holding_hands: two_women_holding_hands  
+:two_women_holding_hands: two_women_holding_hands  
 
-dancer: dancer  
+:dancer: dancer  
 
-dancers: dancers  
+:dancers: dancers  
 
-ok_woman: ok_woman  
+:ok_woman: ok_woman  
 
-no_good: no_good  
+:no_good: no_good  
 
-information_desk_person: information_desk_person  
+:information_desk_person: information_desk_person  
 
-raising_hand: raising_hand  
+:raising_hand: raising_hand  
 
-bride_with_veil: bride_with_veil  
+:bride_with_veil: bride_with_veil  
 
-person_with_pouting_face: person_with_pouting_face  
+:person_with_pouting_face: person_with_pouting_face  
 
-person_frowning: person_frowning  
+:person_frowning: person_frowning  
 
-bow: bow  
+:bow: bow  
 
-couplekiss: couplekiss  
+:couplekiss: couplekiss  
 
-couple_with_heart: couple_with_heart  
+:couple_with_heart: couple_with_heart  
 
-massage: massage  
+:massage: massage  
 
-haircut: haircut  
+:haircut: haircut  
 
-nail_care: nail_care  
+:nail_care: nail_care  
 
-boy: boy  
+:boy: boy  
 
-girl: girl  
+:girl: girl  
 
-woman: woman  
+:woman: woman  
 
-man: man  
+:man: man  
 
-baby: baby  
+:baby: baby  
 
-older_woman: older_woman  
+:older_woman: older_woman  
 
-older_man: older_man  
+:older_man: older_man  
 
-person_with_blond_hair: person_with_blond_hair  
+:person_with_blond_hair: person_with_blond_hair  
 
-man_with_gua_pi_mao: man_with_gua_pi_mao  
+:man_with_gua_pi_mao: man_with_gua_pi_mao  
 
-man_with_turban: man_with_turban  
+:man_with_turban: man_with_turban  
 
-construction_worker: construction_worker  
+:construction_worker: construction_worker  
 
-cop: cop  
+:cop: cop  
 
-angel: angel  
+:angel: angel  
 
-princess: princess  
+:princess: princess  
 
-smiley_cat: smiley_cat  
+:smiley_cat: smiley_cat  
 
-smile_cat: smile_cat  
+:smile_cat: smile_cat  
 
-heart_eyes_cat: heart_eyes_cat  
+:heart_eyes_cat: heart_eyes_cat  
 
-kissing_cat: kissing_cat  
+:kissing_cat: kissing_cat  
 
-smirk_cat: smirk_cat  
+:smirk_cat: smirk_cat  
 
-scream_cat: scream_cat  
+:scream_cat: scream_cat  
 
-crying_cat_face: crying_cat_face  
+:crying_cat_face: crying_cat_face  
 
-joy_cat: joy_cat  
+:joy_cat: joy_cat  
 
-pouting_cat: pouting_cat  
+:pouting_cat: pouting_cat  
 
-japanese_ogre: japanese_ogre  
+:japanese_ogre: japanese_ogre  
 
-japanese_goblin: japanese_goblin  
+:japanese_goblin: japanese_goblin  
 
-see_no_evil: see_no_evil  
+:see_no_evil: see_no_evil  
 
-hear_no_evil: hear_no_evil  
+:hear_no_evil: hear_no_evil  
 
-speak_no_evil: speak_no_evil  
+:speak_no_evil: speak_no_evil  
 
-guardsman: guardsman  
+:guardsman: guardsman  
 
-skull: skull  
+:skull: skull  
 
-feet: feet  
+:feet: feet  
 
-lips: lips  
+:lips: lips  
 
-kiss: kiss  
+:kiss: kiss  
 
-droplet: droplet  
+:droplet: droplet  
 
-ear: ear  
+:ear: ear  
 
-eyes: eyes  
+:eyes: eyes  
 
-nose: nose  
+:nose: nose  
 
-tongue: tongue  
+:tongue: tongue  
 
-love_letter: love_letter  
+:love_letter: love_letter  
 
-bust_in_silhouette: bust_in_silhouette  
+:bust_in_silhouette: bust_in_silhouette  
 
-busts_in_silhouette: busts_in_silhouette  
+:busts_in_silhouette: busts_in_silhouette  
 
-speech_balloon: speech_balloon  
+:speech_balloon: speech_balloon  
 
-thought_balloon: thought_balloon  
+:thought_balloon: thought_balloon  
 
-feelsgood: feelsgood  
+:feelsgood: feelsgood  
 
-finnadie: finnadie  
+:finnadie: finnadie  
 
-goberserk: goberserk  
+:goberserk: goberserk  
 
-godmode: godmode  
+:godmode: godmode  
 
-hurtrealbad: hurtrealbad  
+:hurtrealbad: hurtrealbad  
 
-rage1: rage1  
+:rage1: rage1  
 
-rage2: rage2  
+:rage2: rage2  
 
-rage3: rage3  
+:rage3: rage3  
 
-rage4: rage4  
+:rage4: rage4  
 
-suspect: suspect  
+:suspect: suspect  
 
-trollface: trollface  
+:trollface: trollface   
 </details>
